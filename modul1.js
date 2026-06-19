@@ -1,0 +1,1 @@
+let myModule = "Hello world!";
